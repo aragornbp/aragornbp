@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aragornbp
+- 👋 Hi, I’m @aragornbp, my name is BRUNO PAULIN.
 - 👀 I’m interested in study and work with dev.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python / front end.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... bruno.p-@hotmail.com
 
