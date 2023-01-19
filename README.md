@@ -1,5 +1,11 @@
 # 💫 About Me:
 Gosto de puzzles adoro procurar uma forma diferente e criativa de resolver problemas. <br><br>Sou um pai apaixonado pela minha família. Fiz engenharia química quando era muito novo mas não me encontrei na área,e hoje estudo programação. Comecei estudando linguagem Python e Javascript e agora quero me tornar um profissional Full Stack.<br><br>Atualmente estudo ADS na Uninter e faço o curso de programação Full Stack na Kenzie Academy Brasil, com o intuito de tornar Desenvolvedor. <br><br>Habilidades em: Javascript, HTML, CSS, Typescript, Python, NodeJs, Banco de dados SQL, TypeORM, Prisma ORM, React, Express, NestJs.
+Conhecimentos em: Web Semântica, Lógica de programação, Controle de versão com git, Github, Programação Orientada a Objetos, Programação Funcional, Metodologias Ágeis, Scrum, Kanban, JIRA, TDD com Jest, State Management, PostgreSQL, Programação assíncrona, ORM, Migrations, Construção de APIs RESTful.
+
+
+Contatos: 
+E-mail: bruno.p-@hotmail.com
+GitHub: https://github.com/aragornbp
 
 
 ## 🌐 Socials:
